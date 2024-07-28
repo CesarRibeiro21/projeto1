@@ -1,11 +1,11 @@
 import './index.css'
 
 
-export default function notFund(){
+export default function Notfund(){
     
     return(
         <div className='page-not-Fund'>
-            <img src='/assets/images/not-Fund.png'/>
+            <img src='/assets/images/not-fund.png'/>
         </div>
     )
 }
