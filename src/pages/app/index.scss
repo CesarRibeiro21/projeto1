@@ -1,0 +1,35 @@
+.Header {
+  background-color: rgb(115, 115, 255);
+  height: 90px;
+  width: 1440px;
+ flex-direction: row;
+  display: flex;
+}
+
+.Header h1 {
+  display: flex;
+  justify-content: center;
+  padding-left: 20px;
+  padding-top: 34px;
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 23.44px;
+  text-align: left;
+  color: #F5F6FA;
+}  
+
+.Header li{
+  padding-top: 34px;
+  padding-left: 900px;
+  outline: none;
+  text-decoration: transparent;
+}
+
+
+.freiS {
+  padding-top: 12px;
+  padding-left: 60px;
+  padding-bottom: 10px;
+  display: flex;
+}
